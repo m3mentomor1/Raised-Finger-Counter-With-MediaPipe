@@ -1,17 +1,3 @@
-
-# --------------------------------------------------
-# File Name: finger_counter.py
-# --------------------------------------------------
-# Date Completed: 11-12-2023
-# --------------------------------------------------
-# Description:
-# This is a computer vision-based raised finger 
-# counter program that utilizes the MediaPipe 
-# library to identify hand landmarks and extract 
-# relevant information to count the number of raised 
-# fingers in a live webcam feed.
-# --------------------------------------------------
-
 import cv2
 import mediapipe as mp
 
