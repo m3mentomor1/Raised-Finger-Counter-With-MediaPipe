@@ -12,7 +12,9 @@ This is a computer vision-based raised finger counter program that utilizes the 
 ----------------------
 
 ### 🛠️ III. How to Use?
-
+##
+**Method 1: Cloning**
+##
 **1. Clone this repository**
 
    Paste this command on your terminal: 
@@ -33,3 +35,7 @@ This is a computer vision-based raised finger counter program that utilizes the 
    ```
    pip install -r requirements.txt
    ```
+##
+**Method 2: Forking**
+##
+Click the '**Fork**' button at the top right corner of this page to create a copy of this repository in your GitHub account.
